@@ -6,7 +6,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Membuat_CRUD_Sederhana_With_C_
 {
     class Program
     {
